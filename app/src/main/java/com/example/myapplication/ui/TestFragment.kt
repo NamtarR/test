@@ -1,4 +1,7 @@
 package com.example.myapplication.ui
 
-class TestFragment {
+import androidx.fragment.app.Fragment
+
+class TestFragment : Fragment() {
+
 }
